@@ -37,7 +37,7 @@ A simple GUI application for converting images to ASCII art. This tool supports 
 1. **Run the application**:
 
     ```bash
-    python app.py
+    python src/gui.py
     ```
 
 2. **Select an image file**:
