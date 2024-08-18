@@ -10,6 +10,10 @@ A simple GUI application for converting images to ASCII art. This tool supports 
 - **Background Color Option**: Choose between black or white background for colored ASCII art.
 - **Flexible Save Locations**: Save output in the same directory as the source image or specify a different directory.
 
+![robot-toy-security-issue-featured](https://github.com/user-attachments/assets/9d9a63d3-78b9-4ad6-82f6-c1fe3977d9f9)
+![robot-toy-security-issue-featured_output(wbg)](https://github.com/user-attachments/assets/56c22450-8844-4f7a-b8a8-c671cd1e6d7e)
+![robot-toy-security-issue-featured_output(bbg)](https://github.com/user-attachments/assets/fc08f0e8-2761-4694-b9a5-4025735036c6)
+
 ## Installation
 
 1. **Clone the repository**:
